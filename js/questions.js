@@ -2,35 +2,35 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "qual o menor país do mundo?",
+    answer: "Vatiano",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Índia",
+      "Rússia",
+      "Vatiano",
+      "Canadá"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Quantos ossos tem o corpo humano?",
+    answer: "206",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "206",
+      "201",
+      "306",
+      "210"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "qual o nome do astronauta brasileiro?",
+    answer: "Marcos Pontes",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Christina Hammock Koch",
+      "James Kelly",
+      "Victor Jerome Glover",
+      "Marcos Pontes"
     ]
   },
   {
